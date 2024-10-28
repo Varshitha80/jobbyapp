@@ -35,7 +35,7 @@ class CreateUserProfile extends Component {
       short_bio,
     };
 
-    const url = 'http://localhost:5000/api/profile'; // Update to your actual API endpoint
+    const url = '/api/profile'; // Update to your actual API endpoint
     const options = {
       method: 'POST',
       headers: {
