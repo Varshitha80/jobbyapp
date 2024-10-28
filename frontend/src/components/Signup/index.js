@@ -32,7 +32,7 @@ class Signup extends Component {
     event.preventDefault();
     const {username, password, email} = this.state;
     const userdetails = {username, password, email};
-    const url = 'http://localhost:5000/api/register';
+    const url = '/api/register';
     const options = {
       method: 'POST',
       headers: {

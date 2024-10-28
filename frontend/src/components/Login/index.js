@@ -27,7 +27,7 @@ class Login extends Component {
     event.preventDefault()
     const {username, password} = this.state
     const userdetails = {username, password}
-    const url = 'http://localhost:5000/api/login'
+    const url = '/api/login'
     const options = {
       method: 'POST',
       headers: {
@@ -47,7 +47,7 @@ class Login extends Component {
   checkuserprofile = async () => {
     const jwtToken = Cookies.get('jwt_token');
     const {navigate} = this.props
-    const url = "http://localhost:5000/api/profile";
+    const url = "/api/profile";
     const options = {
       method:'GET',
       headers:{

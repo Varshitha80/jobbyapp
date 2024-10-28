@@ -67,7 +67,7 @@ class Jobs extends Component {
 
   getprofiledata = async () => {
     const jwtToken = Cookies.get('jwt_token')
-    const url = 'http://localhost:5000/api/profile'
+    const url = '/api/profile'
     const options = {
       headers: {
         'Content-Type': 'application/json',
