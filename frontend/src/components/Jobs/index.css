@@ -1,0 +1,134 @@
+.profilecon {
+    background-image: url('https://assets.ccbp.in/frontend/react-js/profile-bg.png');
+    border: none;
+    background-size: cover;
+    padding: 10px;
+    border-radius: 10px;
+    width: 100%;
+  }
+  .profileimage {
+    height: 30px;
+    width: 30px;
+  }
+  .profileheading {
+    font-family: Roboto;
+    color: #6366f1;
+    font-size: 20px;
+  }
+  .profilepara {
+    font-family: Roboto;
+    color: #2c364c;
+    font-size: 15px;
+  }
+  .jobscon {
+    background-color: #121212;
+    min-height: 100vh;
+    padding: 10px;
+    display: flex;
+    padding-left: 30px;
+    padding-top: 20px;
+  }
+  .con1 {
+    width: 20vw;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+  }
+  .horizontalline {
+    width: 100%;
+  }
+  .employmenttypescon {
+    color: #f1f5f9;
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .employmentheading {
+    font-size: 25px;
+    font-family: Roboto;
+  }
+  
+  .listcon1 {
+    list-style-type: none;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    padding: 0px;
+    margin-top: -7px;
+  }
+  .con2 {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    margin-left: 30px;
+  }
+  
+  .jobslistcon {
+    list-style-type: none;
+    display: flex;
+    flex-direction: column;
+  }
+  
+ 
+  .searchelement {
+    background-color: transparent;
+    outline: none;
+    color: #f1f5f9;
+    width: 50vw;
+    border: none;
+  }
+  .inputcon {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    width: 50%;
+    margin-left: 47px;
+    border: 1px solid #7e858e;
+    border-radius: 5px;
+  }
+  .button {
+    background-color: #202020;
+    height: 30px;
+    width: 30px;
+    outline: none;
+    border: none;
+    color: #7e858e;
+    padding: 5px;
+  }
+  .retrybutton {
+    background-color: #6366f1;
+    color: #f1f5f9;
+    font-family: Roboto;
+    font-size: 20px;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+  }
+  .loadcon {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  
+  .jobfailcon {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    padding: 10px;
+    color: #f1f5f9;
+  }
+  .jobfailimage {
+    height: 300px;
+    width: 350px;
+  }
+  .jobfailheading {
+    font-size: 32px;
+  }
+  .jobfailpara {
+    font-size: 20px;
+    margin-top: -5px;
+  }
+  

@@ -1,0 +1,16 @@
+.checkboxsize {
+    width: 15px;
+    height: 15px;
+  }
+  
+  .checkboxcon {
+    display: flex;
+    align-items: center;
+  }
+  
+  .employmentlabeltext {
+    font-size: 15px;
+    margin: 10px;
+    font-family: Roboto;
+  }
+  

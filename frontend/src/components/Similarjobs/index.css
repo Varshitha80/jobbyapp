@@ -1,0 +1,36 @@
+.simlicon {
+    background-color: #202020;
+    border: none;
+    border-radius: 10px;
+    padding: 10px;
+    padding-left: 20px;
+    margin-right: 20px;
+    width: 25%;
+  }
+  .simimage {
+    height: 80px;
+    width: 80px;
+    margin-right: 10px;
+  }
+  .simcon {
+    display: flex;
+    align-items: center;
+  }
+  .simheading {
+    font-size: 20px;
+    margin-bottom: 0px;
+  }
+  .simcon1 {
+    display: flex;
+    flex-direction: column;
+  }
+  .simpara {
+    font-size: 15px;
+  }
+  .simmargin {
+    margin-left: 5px;
+  }
+  .simmargin1 {
+    margin-left: 10px;
+  }
+  

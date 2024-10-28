@@ -1,0 +1,112 @@
+.jobcon1 {
+    background-color: #121212;
+    padding: 50px;
+    min-height: 100vh;
+    display: flex;
+    color: #f1f5f9;
+    flex-direction: column;
+  }
+  .jobcon2 {
+    background-color: #202020;
+    display: flex;
+    flex-direction: column;
+    border: none;
+    border-radius: 10px;
+    padding: 30px;
+  }
+  .image1 {
+    height: 70px;
+    width: 70px;
+    margin: 10px;
+    margin-left: 0px;
+  }
+  .job1 {
+    display: flex;
+    align-items: center;
+  }
+  .job2 {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+  }
+  .image2 {
+    height: 150px;
+    width: 200px;
+    margin-left: 10px;
+  }
+  .lineseparator {
+    width: 100%;
+  }
+  .job3 {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .jobheadingcon {
+    font-size: 25px;
+    font-family: Roboto;
+    margin: 5px;
+    margin-left: 0px;
+    font-weight: 500;
+  }
+  .jobparacon {
+    font-size: 15px;
+    font-family: Roboto;
+    margin: 5px;
+    margin-left: 0px;
+  }
+  .jobpara3 {
+    margin-left: 7px;
+  }
+  .margin1 {
+    margin-left: 10px;
+  }
+  .margin2 {
+    margin-top: -10px;
+  }
+  .jobheadingcon1 {
+    font-size: 20px;
+    font-weight: 400;
+  }
+  .job4 {
+    display: flex;
+  }
+  .anchorelement {
+    text-decoration: none;
+    color: #6366f1;
+    display: flex;
+    align-items: center;
+  }
+  .skillimage {
+    height: 50px;
+    width: 50px;
+  }
+  .skillcon {
+    display: flex;
+    flex-wrap: wrap;
+    list-style-type: none;
+    padding-left: 0px;
+  }
+  .skillcon1 {
+    display: flex;
+    align-items: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 0px;
+    margin-right: 150px;
+  }
+  
+  .listconjob {
+    list-style-type: none;
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: -30px;
+  }
+  
+  .loaderelement1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }

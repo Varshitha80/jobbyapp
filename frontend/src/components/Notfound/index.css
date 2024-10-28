@@ -1,0 +1,24 @@
+.notfoundcon {
+    background-color: #121212;
+    color: #f1f5f9;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-family: Roboto;
+    height: 100vh;
+    padding: 20px;
+  }
+  .notfoundheading {
+    font-size: 32px;
+  }
+  .notfoundpara {
+    font-size: 20px;
+    margin-top: -5px;
+    text-align: center;
+  }
+  .notfoundimage {
+    height: 300px;
+    width: 300px;
+  }
+  
